@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 32" width="54" height="32" fill="white">
+  <path transform="translate(2 0)" d="M0 12 V20 H4 V12z"> 
+    <animateTransform attributeName="transform" type="translate" values="2 0; 10 0; 2 0; 2 0;" dur="1s" begin="0" repeatCount="indefinite" keytimes="0;0.3;0.6;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" calcMode="spline"/>
+    <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1s" begin="0" repeatCount="indefinite" keytimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline"  />
+  </path>
+  <path transform="translate(10 0)" d="M0 12 V20 H4 V12z">
+    <animateTransform attributeName="transform" type="translate" values="10 0; 18 0; 10 0; 10 0;" dur="1s" begin="0.1" repeatCount="indefinite" keytimes="0;0.3;0.6;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" calcMode="spline"/>
+        <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1s" begin="0.15" repeatCount="indefinite" keytimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline"  />
+  </path>
+  <path transform="translate(18 0)" d="M0 12 V20 H4 V12z">
+    <animateTransform attributeName="transform" type="translate" values="18 0; 26 0; 18 0; 18 0;" dur="1s" begin="0.2" repeatCount="indefinite" keytimes="0;0.3;0.6;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" calcMode="spline"/>
+    <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1s" begin="0.3" repeatCount="indefinite" keytimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" />
+  </path>
+  <path transform="translate(26 0)" d="M0 12 V20 H4 V12z">
+    <animateTransform attributeName="transform" type="translate" values="26 0; 34 0; 26 0; 26 0;" dur="1s" begin="0.3" repeatCount="indefinite" keytimes="0;0.3;0.6;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" calcMode="spline"/>
+    <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1s" begin="0.45" repeatCount="indefinite" keytimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" />
+  </path>
+  <path transform="translate(34 0)" d="M0 12 V20 H4 V12z">
+    <animateTransform attributeName="transform" type="translate" values="34 0; 42 0; 34 0; 34 0;" dur="1s" begin="0.4" repeatCount="indefinite" keytimes="0;0.3;0.6;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" calcMode="spline"/>
+    <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1s" begin="0.6" repeatCount="indefinite" keytimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" />    
+  </path>
+  <path transform="translate(42 0)" d="M0 12 V20 H4 V12z">
+    <animateTransform attributeName="transform" type="translate" values="42 0; 50 0; 42 0; 42 0;" dur="1s" begin="0.5" repeatCount="indefinite" keytimes="0;0.3;0.6;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" calcMode="spline"/>
+    <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1s" begin="0.75" repeatCount="indefinite" keytimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" />
+  </path>
+</svg>
